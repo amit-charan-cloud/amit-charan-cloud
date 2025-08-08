@@ -1,3 +1,0 @@
-[submodule "aws-3tier-app"]
-	path = aws-3tier-app
-	url = git@github.com:amit-charan-cloud/aws-3tier-app.git

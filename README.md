@@ -49,9 +49,8 @@ Explore my portfolio of cloud projects and technical guides demonstrating hands-
 - **[github-ssh-setup](https://github.com/amit-charan-cloud/github-ssh-setup)**  
   Step-by-step guide to securely manage SSH keys for GitHub. Learn to generate Ed25519 keys, add them for passwordless access, verify connections, and safely remove keys.
 
----
 
-More projects work in progress coming soon.
+More projects in progress - updates coming soon!
 
 ---
 
